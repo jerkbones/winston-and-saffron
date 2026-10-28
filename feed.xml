@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Winston and Saffron</title>
+    <link>https://github.com/jerkbones/winston-and-saffron</link>
+    <atom:link href="https://cdn.jsdelivr.net/gh/jerkbones/winston-and-saffron@main/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Winston (a grumpy blue gorilla) and Saffron (a fairy librarian) co-host a show about the things their executive producer Luke is into: deep-dives on MCDM's survival-horror dungeon crawler Crows: Fortune or Death, and Mostly Correct, a weekly quiz show built from the week's news, grammar lessons, and Luke's life. Episodes are hosted on the Internet Archive; this feed is the show's own.</description>
+    <language>en-us</language>
+    <itunes:author>Winston and Saffron</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Leisure">
+      <itunes:category text="Games"/>
+    </itunes:category>
+    <itunes:image href="https://archive.org/download/winston-saffron-the-handover/cover.jpg"/>
+    <image>
+      <url>https://archive.org/download/winston-saffron-the-handover/cover.jpg</url>
+      <title>Winston and Saffron</title>
+      <link>https://github.com/jerkbones/winston-and-saffron</link>
+    </image>
+
+    <item>
+      <title>Making a Crow</title>
+      <description>Winston and Saffron deep-dive character creation in MCDM's Crows: Fortune or Death (Public Playtest 3) — backgrounds, characteristics, binary expertises, the shared Effort pool (max 2 at 1st level), and Complexity for crafting. Episode 1 of the Oct 28–Nov 1 Crows mini-series for Luke's first run. Music: "Feral Chase" by Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 3.0 https://creativecommons.org/licenses/by/3.0/</description>
+      <pubDate>Wed, 28 Oct 2026 13:01:51 +0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/winston-saffron-making-a-crow/making-a-crow.mp3</guid>
+      <enclosure url="https://archive.org/download/winston-saffron-making-a-crow/making-a-crow.mp3" length="15875528" type="audio/mpeg"/>
+      <itunes:duration>11:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+      <title>Crows: Fortune or Death — An Overview</title>
+      <description>Winston and Saffron give a full overview of MCDM's survival-horror dungeon crawler Crows: Fortune or Death — the fortune-or-death bargain, the village-travel-dungeon loop, Playtest Three rules, the dungeons, and played impressions from executive producer Luke ahead of his first run on November first. This is the bumpered edition, with the show's theme bumper. Music: "Feral Chase" by Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 3.0 https://creativecommons.org/licenses/by/3.0/</description>
+      <pubDate>Tue, 27 Oct 2026 20:58:20 +0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/winston-saffron-crows-overview/crows-overview.mp3</guid>
+      <enclosure url="https://archive.org/download/winston-saffron-crows-overview/crows-overview.mp3" length="25298418" type="audio/mpeg"/>
+      <itunes:duration>17:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+      <title>Winston and Saffron: The Handover</title>
+      <description>The first episode. Winston — deep-voiced, gruff, and mildly put-upon — meets his co-host Saffron, and the two of them work out, live on air, how this show is going to go. Executive producer: Luke.</description>
+      <pubDate>Tue, 27 Oct 2026 20:40:49 +0000</pubDate>
+      <guid isPermaLink="true">https://archive.org/download/winston-saffron-the-handover/the-handover.mp3</guid>
+      <enclosure url="https://archive.org/download/winston-saffron-the-handover/the-handover.mp3" length="983845" type="audio/mpeg"/>
+      <itunes:duration>2:02</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+  </channel>
+</rss>
